@@ -1,2 +1,2 @@
 # esp32-hornet
-Esp32 based project for aiding in red team cybersecurity operations by leveraging common flaws in WiFi and bluetooth protocols.
+Esp32 based project for interfacing with projects and home IOT ecosystem. However it doesn't enjoy the commands it receives and is rather emotional.
